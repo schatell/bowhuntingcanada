@@ -1,11 +1,11 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
+baseurl: ""
+url: ""
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type on Strap
+  title: Canadian Bowhunter
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
@@ -19,39 +19,22 @@ theme_settings:
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
   # Icons
-  rss: true  # Make sure you created a feed.xml with feed.xml layout
+  rss: false
   email_address: # Full email address, e.g. "sam@example.com"
-  behance:
-  bitbucket:
-  dribbble:
   facebook:
-  flickr:
-  gitlab:
-  github: "sylhare"
-  google_plus:
   instagram:
   keybase:
-  linkedin:  # Full URL
-  pinterest:
-  reddit:
-  soundcloud:
-  stack_exchange:  # Full URL
-  steam:
-  tumblr:
-  twitter: # "twitter username"
-  vimeo:
-  wordpress:
   youtube:
 
-  # Scripts / Features 
+  # Scripts / Features
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
   katex: true # Enable if using math markup
   portfolio: true
   search: true
   tags: true
-  
-  
+
+
   # Localization strings
   str_follow_on: "Follow on"
   str_rss_follow: "Follow RSS feed"
