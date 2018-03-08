@@ -21,6 +21,13 @@ I have created this website to talk about my passion: bows and bowhunting. Since
 I have a plan of publishing several type of content, but mainly written. You can also expect those articles to come with original pictures to help guide you and have a better idea of what is really going on during my adventures. As far as content type, I want to write about the equipment I have the chance to test, I am a gear junkie so I like to tinker with a lot of stuff so you'll surely ear about my opinion a lot. I also want to write about bows, tuning, shot process and everything in between. Of course I also want to talk about my hunts.
 
 *****
+
 ## Am I paid to talk about products?
 
 No I am not, for now all the gear reviewed are stuff I bought with my own money. If this came to change, or if I was supplied with test unit, it will be mentioned at the top of the article.
+
+*****
+
+## Ads on the website
+
+I display a small amount of ad on the website to help me pay for the expense I have hosting this webpage. Those ad come from google and are safe to the user. They reflect thing each user would be interested in viewing.
