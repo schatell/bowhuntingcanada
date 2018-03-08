@@ -5,42 +5,39 @@ url: ""
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Canadian Bowhunter
-  avatar: assets/img/triangle.svg
-  favicon: assets/favicon.ico
-  gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  title: Bow Hunting Canada
+  avatar: assets/img/logo.svg #NEED TO BE CHANGED!
+  favicon: assets/favicon.ico #NEED TO BE CHANGED!
+  gravatar: 9c9fa7cdc97962c107d21b7c5fb0f5c9
+  description: A website dedicated to archery and bowhunting, gear and techniques.
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>Change header text in <code>_config.yml</code> <br> to update this feature.</p>
-  header_text_feature_image: assets/img/pexels/triangular.jpeg
+     <p>Your ressource for archery, bowhunting and everything in between!</p>
+  header_text_feature_image: assets/img/general/header.jpg
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+   Bow Hunting Canada. All Right Reserved
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "schatell@bowhuntingcanada.com"
   facebook:
-  instagram:
-  keybase:
+  instagram: "https://www.instagram.com/bowhunting.canada/"
   youtube:
 
   # Scripts / Features
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: UA-115342542-1
   disqus_shortname:
-  katex: true # Enable if using math markup
-  portfolio: true
+  katex: false # Enable if using math markup
+  portfolio: false
   search: true
   tags: true
 
 
   # Localization strings
-  str_follow_on: "Follow on"
-  str_rss_follow: "Follow RSS feed"
   str_email: "Email"
-  str_next_post: "Next post"
-  str_previous_post: "Previous post"
+  str_next_post: "Next article"
+  str_previous_post: "Previous article"
   str_next_page: "Next"
   str_previous_page: "Prev"
   str_continue_reading: "Continue reading"
