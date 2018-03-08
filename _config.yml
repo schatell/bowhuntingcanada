@@ -6,8 +6,8 @@ url: ""
 theme_settings:
   # Meta
   title: Bow Hunting Canada
-  avatar: assets/img/logo.svg #NEED TO BE CHANGED!
-  favicon: assets/favicon.ico #NEED TO BE CHANGED!
+  avatar: assets/img/logo.svg
+  favicon: assets/favicon.ico
   gravatar: 9c9fa7cdc97962c107d21b7c5fb0f5c9
   description: A website dedicated to archery and bowhunting, gear and techniques.
 
@@ -16,7 +16,7 @@ theme_settings:
      <p>Your ressource for archery, bowhunting and everything in between!</p>
   header_text_feature_image: assets/img/general/header.jpg
   footer_text: >
-   Bow Hunting Canada. All Right Reserved
+                <p>Bow Hunting Canada. All Right Reserved</p>
 
   # Icons
   rss: false
@@ -32,7 +32,6 @@ theme_settings:
   portfolio: false
   search: true
   tags: true
-
 
   # Localization strings
   str_email: "Email"
