@@ -21,7 +21,7 @@ The model we are looking at right now is the Force-11D. It is a middle of the ro
 
 The camera control panel and 2 inches screen is located under a panel that simply pop off the front of the camera itself. The latching clip are nice and big and very easy to operate and feel secure when latched. Contrary to the older style of Spypoint where you had to open the case and pivot the entire unit to access to back of it, now, once installed on a tree, you can quickly access everything you need from the front of the camera.
 
-The back of the camera is where you can attach the supplied strap and can have access to the battery compartment. You can access the battery under the panel with a simple captured screw. There is also three spikes on the back to help secure the camera to a tree. This make the camera a little more stable when left overtime.
+The back of the camera is where you can attach the supplied strap and can have access to the battery compartment. You can access the battery under the panel with a simple captured screw. The strap attaches to a quick-detach bracket which permits to quickly get the camera on and off the bracket. This is a nice to have feature.
 
 The supplied strap is not the best, I would suggest getting a mount that you can screw into the body of the camera. All Spypoint as far as I know come with this option. You can buy one, or even make one fairly easily and on the cheap. This have the advantage of being way more secure on the tree and the camera risk moving less with time spent outdoor.
 
