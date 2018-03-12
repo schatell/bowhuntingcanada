@@ -6,10 +6,11 @@ feature-img: # Add a feature-image to the post
 thumbnail: # Add a thumbnail image on blog view
 tags: [Tree stand, Hang-on, LoneWolf]
 ---
+**Please exercise safety when climbing trees. Always wear a safety harness and be sure to always have three point of contact with the tree at all time.**
 
 ## Lone Wolf
 
-Lone Wolf is the company that for a long time drove the treestand technology through the roof. It is responsible for the invention of the cast aluminium platform in treestand permiting a close to perfectly silence sit. By itself, this is a pretty big deal, but lone wolf doesn’t stop here, the lone wolf alpha II is loaded with features that make it a bowhunter best companion!
+Lone Wolf is the company that for a long time was at the forefront of the treestand technologies. It is responsible for the invention of the cast aluminium platform in tree stand permitting a close to perfectly silent sit. By itself, this is a pretty big deal, but lone wolf doesn’t stop here, the lone wolf alpha II is loaded with features that make it a bowhunter best companion!
 
 *****
 
@@ -17,7 +18,7 @@ Lone Wolf is the company that for a long time drove the treestand technology thr
 
 #### Size
 
-Lone Wolf stands come in 2 sizes, the alpha II is the largest of the two with a platform measuring 30 inches long by 19.5 inches wide. The seat and seat height is the same on both models measuring 14 by 12 inches at 21 inches high measuring from the platform. The height of the seat is what I especially love from this stand. It make a big difference on all day sit.
+Lone Wolf stands come in 2 sizes, the alpha II is the largest of the two with a platform measuring 30 inches long by 19.5 inches wide. The seat is the same on both models measuring 14 by 12 inches, seat height is set at 21 inches high measuring from the platform. The height of the seat is what I especially love from this stand. It make a big difference on all day sit.
 
 #### Levelling
 
@@ -25,7 +26,9 @@ What make this stand even more comfortable is that you can level the stand in 2 
 
 #### Packability
 
-The Lone Wolf system is designed with mobile hunting in mind. A lot of us are hunting public land, so a mobile set-up is often the right answer. Lone Wolf integrate aluminium in its design, making this stand a portable solution. However, if you do intend on moving a lot, I would recommend getting the smaller assault II version in the Lone Wolf line, that way you save yourself about 3 pounds of material to haul into the wood each time(14 vs 11 pounds). If you decide to buy climbing sticks to go with your stand, know that they are made to mate with the folded stand, making it easy to transport the entire system combined with the provided backpack straps.
+The Lone Wolf system is designed with mobile hunting in mind. A lot of us are hunting public land, so a mobile set-up is often the right answer. Lone Wolf integrate aluminium in its design, making this stand a portable solution. However, if you do intend on moving a lot, you could get the smaller “assault II” version in the Lone Wolf line, that way you save yourself about 3 pounds of material to haul into the wood each time(14 vs 11 pounds). If you decide to buy climbing sticks to go with your stand, know that they are made to mate with the folded stand, making it easy to transport the entire system combined with the provided backpack straps.
+
+Picture of stand in transport mode
 
 #### Versa button
 
@@ -56,4 +59,8 @@ You can get the stick quiver from Lone Wolf themselves, or the [“sticks talons
 
 ## Final thought
 
-I’ve had the chance to have been hunting in the stand for the entire last season, and I am overall very happy with the result. This stand is a great ally when getting into secluded or new spots. Altought heavier than the Assault II variant, I still feel this stand is still valuable when being mobile. The way I have used mine last season is by making short term set, meaning I would set up and leave the stand until I had hunted the location for about two or three times, then I move the set to a new
+I’ve had the chance to have been hunting in the stand for the entire last season, and I am overall very happy with the result. This stand is a great ally when getting into secluded or new spots. Although heavier than the Assault II variant, I still feel this stand is valuable when being mobile. The way I have used mine last season is by making short term set, meaning I would set up and leave the stand until I had hunted the location for about two or three times, then I move the set to a new location depending on deer movement and the principle of “most recent informations”
+
+Overall Lone Wolf is still synonyms with quality and a loved and recognize brand when it come to whitetail hunter. I think every serious bowhunter need to have at least one mobile set up and the Lone Wolf is still the leader in that category.
+
+As far as an evaluation, I would still give the Lone Wolf alpha II a solid 9.5/10. The last 0.5 point taken because I had to make some add-on and modification to make it truly as silent as possible. Otherwise I would not had anything to an already proven and loved product.
