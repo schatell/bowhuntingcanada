@@ -4,7 +4,7 @@ title: Lone Wolf Alpha II # Title of the page
 subtitle: Gear Review # A subtitle can be displayed below your title
 feature-img: # Add a feature-image to the post
 thumbnail: # Add a thumbnail image on blog view
-tags: [Review, Tree stand, Hang-on, LoneWolf]
+tags: [Tree stand, Hang-on, LoneWolf]
 ---
 
 ## Lone Wolf
@@ -45,11 +45,15 @@ Although this stand has a great number of killer features, there is still some d
 
 #### Silence treatment
 
-Being the quietest stand on the market right now doesn't cut it for me. Don't get me wrong, this stand is very quiet. It attach rock solid to the tree a doesn't make a whole lot of noise. But there is still some noise that the stand could do and alert animals nearby. For example, stand stand can clunk when packing it in, you could make a noise with the strap buckle trying to tie them, or even worse, rubbing your boots on the cable make a strange squeaky sound for me. All of those problem are, thankfully, fixable. You will however need a little bit of elbow grease and time to remedies the situation. I would not waste time explaining here how to do it since there is already a perfect resource for that exact subject. Here is the link to the video that will solve all of your problem with a noisy stand.
+Being the quietest stand on the market right now doesn't cut it for me. Don't get me wrong, this stand is very quiet. It attach rock solid to the tree a doesn't make a whole lot of noise. But there is still some noise that the stand could do and alert animals nearby. For example, stand stand can clunk when packing it in, you could make a noise with the strap buckle trying to tie them, or even worse, rubbing your boots on the cable make a strange squeaky sound for me. All of those problem are, thankfully, fixable. You will however need a little bit of elbow grease and time to remedies the situation. I would not waste time explaining here how to do it since there is already a perfect resource for that exact subject. [Here is the link to the video that will solve all of your problem with a noisy stand](https://www.youtube.com/watch?v=U_22dM-YGnY&t=617s).
 
 #### Packing in
 
 Packing in with the stand on your back is fairly easy. However be aware that weight quickly add up. Consider what to bring in your backpack and try to stay light. The normal way of attaching the climbing sticks to the stand is a little flawed since the sit down the middle of the stand on your back, leaving you almost no place to strap a backpack that is comfortable. I strap mine on one side, but this make it awkward to travel long distances. Also the backpack straps provided are not padded and quickly dig into your shoulder and are very uncomfortable. I would suggest two upgrade in that sense:
 Buy the padded backpack straps.
 Buy an aftermarket way of transporting the climbing sticks.
-You can get the stick quiver from Lone Wolf themselves, or the “sticks talons” on http://www.mobilehuntinggear.com, those would permit the middle of the stand to be free to strap you hunting backpack to it, making it more centered and thus more comfortable.
+You can get the stick quiver from Lone Wolf themselves, or the [“sticks talons”](http://www.mobilehuntinggear.com), those would permit the middle of the stand to be free to strap you hunting backpack to it, making it more centered and thus more comfortable.
+
+## Final thought
+
+I’ve had the chance to have been hunting in the stand for the entire last season, and I am overall very happy with the result. This stand is a great ally when getting into secluded or new spots. Altought heavier than the Assault II variant, I still feel this stand is still valuable when being mobile. The way I have used mine last season is by making short term set, meaning I would set up and leave the stand until I had hunted the location for about two or three times, then I move the set to a new
