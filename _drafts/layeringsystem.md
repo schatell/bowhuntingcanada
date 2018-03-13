@@ -3,7 +3,7 @@ layout: post
 title:  Layering system
 subtitle: How to dress properly for the outdoors
 feature-img: assets/img/posts/layers/feature.jpg
-thumbnail: assets/img/thumbnails/face.jpg
+thumbnail: assets/img/posts/layers/face.jpg
 tags: [Equipment, Layering, Clothing]
 ---
 
