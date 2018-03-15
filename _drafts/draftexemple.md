@@ -2,7 +2,7 @@
 layout: post
 title:  # Title of the page
 subtitle: # A subtitle can be displayed below your title
-feature-img: # Add a feature-image to the post
+feature-img: assets/img/general/defaultfeature.jpg
 thumbnail: # Add a thumbnail image on blog view
 tags: [tag1, tag2]
 ---

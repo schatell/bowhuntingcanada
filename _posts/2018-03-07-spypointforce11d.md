@@ -2,7 +2,7 @@
 layout: post
 title: Spypoint Force-11D # Title of the page
 subtitle: Gear Review # A subtitle can be displayed below your title
-feature-img: # Add a feature-image to the post
+feature-img: assets/img/general/defaultfeature.jpg
 thumbnail: # Add a thumbnail image on blog view
 tags: [Review, Hunting Camera, Spypoint]
 ---
