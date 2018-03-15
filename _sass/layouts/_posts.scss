@@ -18,8 +18,17 @@ article {
         font-size: 0.9em;
     }
     p em{
+      color: lighten($text-color, 20%);
       display: flex;
       justify-content: center;
+    }
+    section{
+      h2 {
+       color: $link-color;
+     }
+     h4 {
+       color: lighten($link-color, 7%);
+     }
     }
 }
 
