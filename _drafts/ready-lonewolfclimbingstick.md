@@ -2,7 +2,7 @@
 layout: post
 title:  Lone Wolf Climbing Sticks
 subtitle: Gear Review
-feature-img: # Add a feature-image to the post
+feature-img: assets/img/general/defaultfeature.jpg
 thumbnail: # Add a thumbnail image on blog view
 tags: [Review, Lone Wolf, Climbing Sticks]
 author: sebastien
