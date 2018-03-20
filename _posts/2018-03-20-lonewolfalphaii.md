@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Lone Wolf Alpha II # Title of the page
-subtitle: Gear Review # A subtitle can be displayed below your title
+title: Lone Wolf Alpha II
+subtitle: Gear Review
 feature-img: assets/img/posts/lonewolfalphaii/uptree.jpg
 thumbnail: assets/img/posts/lonewolfalphaii/uptree.jpg
 tags: [Tree stand, Hang-on, LoneWolf]
