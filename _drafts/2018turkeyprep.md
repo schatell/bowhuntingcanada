@@ -5,6 +5,7 @@ subtitle: # Hunting strategy
 feature-img: assets/img/general/defaultfeature.jpg
 thumbnail: # Add a thumbnail image on blog view
 tags: [Turkey Hunting, Hunting Story, Preparation]
+author: sebastien
 ---
 
 ## Turkey season...

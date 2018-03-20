@@ -5,6 +5,7 @@ subtitle: Gear Review
 feature-img: assets/img/posts/bigbillarcheryjacket/feature.jpg
 thumbnail: assets/img/posts/bigbillarcheryjacket/thumnail.jpg
 tags: [Review, Clothing, Jacket]
+author: sebastien
 ---
 
 ## In need of an early season jacket

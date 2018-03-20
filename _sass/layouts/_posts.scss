@@ -24,10 +24,10 @@ article {
     }
     section{
       h2 {
-       color: $link-color;
+       color: $text-color;
      }
      h4 {
-       color: lighten($link-color, 7%);
+       color: lighten($text-color, 5%);
      }
     }
 }

@@ -5,6 +5,7 @@ subtitle: Gear Review
 feature-img: # Add a feature-image to the post
 thumbnail: # Add a thumbnail image on blog view
 tags: [Review, Lone Wolf, Climbing Sticks]
+author: sebastien
 ---
 
 **Please exercise safety when climbing trees. Always wear a safety harness and be sure to always have three points of contacts with the tree at all time.**

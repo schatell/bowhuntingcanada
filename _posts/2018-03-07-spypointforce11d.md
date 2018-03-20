@@ -5,6 +5,7 @@ subtitle: Gear Review # A subtitle can be displayed below your title
 feature-img: assets/img/general/defaultfeature.jpg
 thumbnail: # Add a thumbnail image on blog view
 tags: [Review, Hunting Camera, Spypoint]
+author: sebastien
 ---
 
 ## The company

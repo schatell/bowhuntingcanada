@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  Getting started with a bow
-subtitle: Part one: parts and function
+title:  Beginner archery guide
+subtitle: "Part one: parts and function"
 feature-img: assets/img/general/defaultfeature.jpg
 thumbnail: # Add a thumbnail image on blog view
 tags: [Beginner's guide, Archery, bow, accessories]
+author: sebastien
 ---
 
 ## Bowhunting…

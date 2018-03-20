@@ -5,6 +5,7 @@ subtitle: Gear Review # A subtitle can be displayed below your title
 feature-img: assets/img/posts/lonewolfalphaii/uptree.jpg
 thumbnail: assets/img/posts/lonewolfalphaii/uptree.jpg
 tags: [Tree stand, Hang-on, LoneWolf]
+author: sebastien
 ---
 **Please exercise safety when climbing trees. Always wear a safety harness and be sure to always have three points of contact with the tree at all time.**
 
