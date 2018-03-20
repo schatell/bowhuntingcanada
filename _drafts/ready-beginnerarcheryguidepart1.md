@@ -1,0 +1,104 @@
+---
+layout: post
+title:  Beginner archery guide
+subtitle: "Part one: parts and function"
+feature-img: assets/img/general/defaultfeature.jpg
+thumbnail: # Add a thumbnail image on blog view
+tags: [Beginner's guide, Archery, bow, accessories]
+author: sebastien
+---
+
+### Quick Navigation
+
+<!--  Navigation link-->
+
+## Shooting a bow
+
+It sure does look intimidating at first look. A compound bow you have all those cable and wheel and stuff bolted to the bow, where to start? What is good? What do you need? I will get into this very subject in this article in the most simplistic way possible so you can get into this great activity that is shooting a bow!
+
+**Note that I will treat mostly about compound bows**
+
+*****
+
+## Main parts
+
+All compound bows are built on the same principle and the parts are all called the same, the main “body” of the bow is called the **riser**. It is the piece of aluminum or sometimes carbon where you grip the bow and where all accessories are mounted. Its role is to be rigid and stable while still being as light as possible.
+
+![Picture of a riser]({{ "/assets/img/posts/archerybeginnerpart1/riser.JPG" | absolute_url }})
+*Pictured above: Riser of a Hoyt ProDefiant*
+
+At both end of the riser you have the **limbs**. Those are what determine the **draw weight** of the bow, meaning the amount of force required to pull the bow back. Those limbs flex when the bow is drawn and when the string is released the spring back into their position, providing the force required to propel the arrow.
+
+![Picture of a limb]({{ "/assets/img/posts/archerybeginnerpart1/limbs.JPG" | absolute_url }})
+*Pictured above: A bow limb*
+
+Those limbs each have **cams** at their ends. The cams are the more or less round wheels that your cable and string are attached to. Those are critical in the design of a compound bow. They are the main part that differentiates a compound from a traditional bow.
+
+![Picture of a cam]({{ "/assets/img/posts/archerybeginnerpart1/cam.JPG" | absolute_url }})
+*Pictured above: A bow cam*
+
+The **string and cables** are attached to those cams and make them rotate as you draw. The string and cables are made from the same material. The difference is that the string is where your arrow will clip on and is located the farthest from the riser. It also has a loop around where the arrow will clip called the **D-Loop**. String and cable have places that are wrapped around what is called **serving**. The serving material is a small diameter rope that augments the diameter of the string and cable at certain key positions, for example where the arrow clip on. The role of the cables will be explained in detail later in this article.
+
+![Picture of a d-loop]({{ "/assets/img/posts/archerybeginnerpart1/loop.JPG" | absolute_url }})
+*Pictured above: A d-loop*
+
+Compound bows also have a **cable rod**, this is a rod that is attached to the riser and in which the cables ride. Its main purpose is to guide the cable away from the arrow path during the shot process.
+
+![Picture of a cable rod]({{ "/assets/img/posts/archerybeginnerpart1/cablerod.JPG" | absolute_url }})
+*Pictured above: A Hoyt cable rod*
+
+
+*****
+
+## Accessories
+
+All archers need a few necessary accessories to shoot their bow properly. The following are must have and you cannot shoot a compound without them.
+
+#### Arrow rest
+
+The arrow is guided through the shot process by the **arrow rest**. There is a multitude of styles of arrow rest out there but all serve the same purpose, which is to guide the arrow during the shot process. It keeps the arrow from falling off the bow and maintains it in an ideal position during its launching.
+
+![Picture of an arrow rest]({{ "/assets/img/posts/archerybeginnerpart1/rest.JPG" | absolute_url }})
+*Pictured above: An AAE arrow rest*
+
+#### Sighting system
+
+You, the shooter, will need a way to aim. For this, you use the **sight** in conjunction with the **peep sight**. They function the same as a rifle iron sight, the peep is the rear sight, the front is the sight itself. Aligning both of those at the same place for each shot procure accuracy. The peep sight is a piece of metal or plastic inserted in your string with an allow circle for your eye to see through. You align both sight and peep sight to form you **sight picture**. Note that this peep sight is adjustable in height to accommodate your height, body type, face structure that can all change your **anchor point**.
+
+![Picture of a peep sight]({{ "/assets/img/posts/archerybeginnerpart1/peep.JPG" | absolute_url }})
+*Pictured above: A peep sight*
+
+![Picture of a sight]({{ "/assets/img/posts/archerybeginnerpart1/sight.JPG" | absolute_url }})
+*Pictured above: A BlackGold sight*
+
+#### Stabilizer
+
+Most archer use **stabilizer**. They are a rod that extends toward the target with a bunch of counterweights. This assembly is bolted into the riser. Most hunting style of stabilizer will feature some kind of noise reduction as well. The main goal with stabilizer is to, in fact, stabilize your sight picture by using the counterweight to balance the bow. Tournament archer will have long and heavy stabilizer as well as side stabilizer, those are not really used for hunting since they are cumbersome to shoot into a confined environment.
+
+![Picture of a stabilizer]({{ "/assets/img/posts/archerybeginnerpart1/stabilizer.JPG" | absolute_url }})
+*Pictured above: A painted Beestringer stabilizer*
+
+#### Release
+
+Finally, the archer uses a **release** to fire the shot. The release is held by the archer and clipped onto the D-Loop. When the archer wants to fire, the release is activated, the shot break and the arrow is launched. Releasing an arrow with the fingers is rarely seen those days with compound bows. There is many styles of releases, most targeted at hunter are of a style called “wrist strap”. Savvy archer will use one of the many “handheld styles” however as those have many advantages. But this is for another article.
+
+![Picture of two type of release]({{ "/assets/img/posts/archerybeginnerpart1/releases.JPG" | absolute_url }})
+*Pictured above: A wrist strap release and a handheld release*
+
+*****
+
+## Bringing it together
+
+#### Function
+
+**Important note to never fire your bow without an arrow in it. This could result in the break of equipment or even worse some serious injury.**
+
+A compound bow functions the following way. When it is drawn, the archer will pull against the increasing force of the draw weight. During this motion, the limbs are being pulled under pressure and the cams are slowly rotating. Once a certain percentage of the pulling motion has been achieved, the cam rotates to their final position and the draw weight reduce significantly. Why is that? Well, the force that the archers were pulling against the string is now stored in the cables. The cam rotation is what permits this transfer of energy to the cable and this is what set a compound bow apart from a traditional bow.
+
+#### Draw cycle
+
+The motion performed by the archer is called the **draw cycle**. During this cycle, the archer will achieve the **peak weight** of the cycle, then feel the **valley** of the cams, where the archer feel the “dumping” of the weight pulled. The amount of weight taken off the archer's hand is calculated in **let-off**. Most bowhunting bow will have let off around 85%, meaning that the archer will hold only 15% of the peak weight when at full draw. Those numbers are, of course, subject to change by bow model and manufacturers. This let-off is extremely useful for the bowhunter since it permits the holding at full draw for quite some time.
+
+*****
+
+In the next article, I will talk about arrows, it's part and possible configuration.
