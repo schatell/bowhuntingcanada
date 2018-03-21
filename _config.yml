@@ -26,7 +26,6 @@ theme_settings:
   youtube:
 
   # Scripts / Features
-  google_analytics: UA-115342542-1
   disqus_shortname: "bowhuntingcanada"
   katex: false # Enable if using math markup
   portfolio: false
