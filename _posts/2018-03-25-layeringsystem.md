@@ -20,7 +20,7 @@ But what is a layering system? It is a way to dress that permit your body to reg
 
 #### Base layer
 
-Is the closest one to your skin. Its role is simple: wick away the moisture from your skin and keeps you dry. It is no secret that your body will get colder faster if wet, especially when exposed to wind. Combine that with the long hours of sitting in one place and you get a dangerous combination.
+Is the closest one to your skin. Its role is simple: wick away the moisture from your skin and keeps you dry. It is no secret that your body will get colder faster if wet, especially when exposed to wind. Combine that with the long hours of sitting in one place and you get a dangerous situation.
 
 Those clothes are most of the time form fitting. The closer fit to your body add effectiveness to the moisture wicking quality of the garnment. For hunting purposes try to keep them a neutral color but you don't need to get camo design since you will rarely get down to that level.
 
