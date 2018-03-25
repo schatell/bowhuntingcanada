@@ -18,7 +18,7 @@ But what is a layering system? It is a way to dress that permit your body to reg
 
 ## Layers
 
-### Base layer
+#### Base layer
 
 Is the closest one to your skin. Its role is simple: wick away the moisture from your skin and keeps you dry. It is no secret that your body will get colder faster if wet, especially when exposed to wind. Combine that with the long hours of sitting in one place and you get a dangerous combination.
 
@@ -43,21 +43,21 @@ Cons to merino wool:
 
 I would like to note that, you can expect a couple of season out of your merino as far as durability goes, and you really get use to the itchy feeling after a couple of wear. Overall the pro far outweight the cons
 
-### Mid layer
+#### Mid layer
 
 The mid layer, also called insulation layer, soles purpose is to provide the insulation required between your base and outer layer. While the base layer keeps you dry, the mid layer provides loft and airspace to insulate your body. This layer needs to allow air to travel through it and permit the drying of your base layer.
+
+![MidLayer Exemple]({{ "/assets/img/posts/layers/midlayer.JPG" | absolute_url }})
+*Pictured above: Icebreaker Helix camo*
 
 Most often than not, those garments will be made out of synthetic material such as polyester. Sometimes if the weather permits it, you could get down to this layer so think about neutral colors or camouflage for hunting purposes. Something to note about synthetic is that they can retain odors so those need to be washed more often. Exemple of this type of clothes are:
 - Fleeces
 - Hoodies
 - Puffy jacket
 
-![MidLayer Exemple]({{ "/assets/img/posts/layers/midlayer.JPG" | absolute_url }})
-*Pictured above: Icebreaker Helix camo*
-
 While this layer is critical to keep you warm, this is probably the piece of clothing that might cost you the least amount of money. You can get some great piece of clothing at a reasonable price in this category. No need to shell out some big money, when a traditional fleece will serve you as well as any other high dollars pieces. Better save in this category and get yourself something a little nicer in the other two categories.
 
-### Outer layer
+#### Outer layer
 
 The outer layer that you will want to wear is entirely dependant on the weather condition. For example, during the early season, you might only need a soft shell to cut the wind out. Later in the season, you will need to step your game up and bring more of a winter jacket type of garment.
 
