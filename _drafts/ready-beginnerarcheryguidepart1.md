@@ -4,11 +4,13 @@ title:  Beginner archery guide
 subtitle: "Part one: parts and function"
 feature-img: assets/img/general/defaultfeature.jpg
 thumbnail: # Add a thumbnail image on blog view
-tags: [Beginner's guide, Archery, bow, accessories]
+tags: [Beginner's guide, Archery, Bow]
 author: sebastien
 ---
 
 ### Quick Navigation
+
+Will be available when other article are online
 
 <!--  Navigation link-->
 
@@ -47,7 +49,6 @@ Compound bows also have a **cable rod**, this is a rod that is attached to the r
 ![Picture of a cable rod]({{ "/assets/img/posts/archerybeginnerpart1/cablerod.JPG" | absolute_url }})
 *Pictured above: A Hoyt cable rod*
 
-
 *****
 
 ## Accessories
@@ -76,7 +77,7 @@ You, the shooter, will need a way to aim. For this, you use the **sight** in con
 Most archer use **stabilizer**. They are a rod that extends toward the target with a bunch of counterweights. This assembly is bolted into the riser. Most hunting style of stabilizer will feature some kind of noise reduction as well. The main goal with stabilizer is to, in fact, stabilize your sight picture by using the counterweight to balance the bow. Tournament archer will have long and heavy stabilizer as well as side stabilizer, those are not really used for hunting since they are cumbersome to shoot into a confined environment.
 
 ![Picture of a stabilizer]({{ "/assets/img/posts/archerybeginnerpart1/stabilizer.JPG" | absolute_url }})
-*Pictured above: A painted Beestringer stabilizer*
+*Pictured above: A Beestringer stabilizer (painted)*
 
 #### Release
 

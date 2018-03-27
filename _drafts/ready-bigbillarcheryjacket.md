@@ -4,7 +4,7 @@ title:  Big Bill 18oz. merino wool archery jacket
 subtitle: Gear Review
 feature-img: assets/img/posts/bigbillarcheryjacket/feature.jpg
 thumbnail: assets/img/posts/bigbillarcheryjacket/thumnail.jpg
-tags: [Review, Clothing, Jacket]
+tags: [Review, Clothing, Jacket, BigBill]
 author: sebastien
 ---
 

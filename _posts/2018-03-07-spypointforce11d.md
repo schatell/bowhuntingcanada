@@ -84,7 +84,7 @@ Spypoint will give you multiple information on your photos, it can for sure help
 
 *****
 
-## Conclusions
+## Conclusion
 
 Although not perfect, the Spypoint Force-11D is what I consider to be my "main" camera. It gets the spot of choice and I used my other older models to "worse" spots. If I need to take a picture of a nice buck and know the pattern I am sure to put the Force-11D to the task. I also like using it when scouting new spot, in those case, I use the screen to have a perfect view of what I want to see without having to mess around with taking picture and looking with my phone how they look, or even worse, coming back 2 weeks later and the camera wasn't set  the . This is a really frustrating situation.
 

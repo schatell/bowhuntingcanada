@@ -4,7 +4,7 @@ title: Lone Wolf Alpha II
 subtitle: Gear Review
 feature-img: assets/img/posts/lonewolfalphaii/uptree.jpg
 thumbnail: assets/img/posts/lonewolfalphaii/uptree.jpg
-tags: [Tree stand, Hang-on, LoneWolf]
+tags: [Tree stand, Hang-on, LoneWolf, Review]
 author: sebastien
 ---
 **Please exercise safety when climbing trees. Always wear a safety harness and be sure to always have three points of contact with the tree at all time.**
@@ -77,7 +77,7 @@ Packing in with the stand on your back is fairly easy. However be aware that wei
 
 You can get the ["stick quiver"](https://www.lonewolfhuntingproducts.com/shop/Products/Alpha-Tech-Stick-Quiver__AT-SQ.aspx) from Lone Wolf themselves, or the [“sticks talons”](http://www.mobilehuntinggear.com) from mobilehuntinggear.com, those would permit the middle of the stand to be free to strap you hunting backpack to it, making it more centered and thus more comfortable.
 
-## Final thought
+## Conclusion
 
 I’ve had the chance to have been hunting in the stand for the entire last season, and I am overall very happy with the result. This stand is a great ally when getting into secluded or new spots. Although heavier than the Assault II variant, I still feel this stand is valuable when being mobile. The way I have used mine last season is by making short-term set, meaning I would set up and leave the stand until I had hunted the location for about two or three times, then I move the set to a new location depending on deer movement and the principle of “most recent information”
 
