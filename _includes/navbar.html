@@ -1,5 +1,5 @@
 <header class="site-header">
-    
+
     <!-- Logo and title -->
 	<div class="branding">
 		<a href="{{ site.baseurl }}/">
@@ -10,31 +10,27 @@
 			<a href="{{ site.baseurl }}/">{{ site.theme_settings.title }}</a>
 		</h1>
 	</div>
-    
+
     <!-- Toggle menu -->
     <nav class="clear">
-    <a id="pull" class="toggle" href="#">
+    <a id="pull" class="toggle">
     <i class="fa fa-bars fa-lg"></i>
     </a>
-    
+
     <!-- Menu -->
     <ul>
         {% for page in site.pages %}
         {% if page.title and page.hide != true %}
-        <li class="separator">
-            |
-        </li>
+
         <li>
             <a class="clear" href="{{ page.url | relative_url }}">
                 {{ page.title }}
             </a>
         </li>
         {% endif %}
-        {% endfor %} 
+        {% endfor %}
         {% if site.theme_settings.portfolio %}
-        <li class="separator">
-            |
-        </li>
+
         <li>
             <a class="clear" href="{{ site.url }}{{ site.baseurl }}/portfolio">
                 Portfolio
@@ -42,9 +38,7 @@
         </li>
         {% endif %}
         {% if site.theme_settings.search %}
-        <li class="separator">
-            |
-        </li>
+
         <li>
             <a class="clear" href="{{ site.url }}{{ site.baseurl }}/search">
                 <i class="fa fa-search" aria-hidden="true"></i>
@@ -52,17 +46,14 @@
         </li>
         {% endif %}
         {% if site.theme_settings.tags %}
-        <li class="separator">
-            |
-        </li>
         <li>
             <a class="clear" href="{{ site.url }}{{ site.baseurl }}/tags">
                 <i class="fa fa-tags" aria-hidden="true"></i>
             </a>
         </li>
         {% endif %}
-        
+
     </ul>
-        
+
 	</nav>
 </header>
