@@ -67,11 +67,12 @@
     .post-img {
       box-shadow: 0 3px 6px rgba(0,0,0,0.23), 0 3px 6px rgba(0,0,0,0.33);
       vertical-align: middle;
-      background-position: center;
+      background-position: top center;
       background-size: cover;
+      background-repeat: no-repeat;
+
       border-top-right-radius: 25px;
       border-top-left-radius: 25px;
-      height: 300px;
       @media (min-width: $break) {
 
       }
@@ -111,10 +112,16 @@
   .post-teaser {
     width: 40vw;
   }
+  .post-img{
+    height: 60vh;
+  }
 }
 
 @media screen and (max-width: $break) {
   .post-teaser{
     width: 70vw;
+  }
+  .post-img{
+    height: 55vh;
   }
 }

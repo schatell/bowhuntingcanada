@@ -2,17 +2,18 @@
 layout: post
 title: Preparing for turkey 2018
 subtitle: Hunting journal
-feature-img: assets/img/general/defaultfeature.jpg
-thumbnail: # Add a thumbnail image on blog view
+feature-img: assets/img/posts/turkeyprep2018/decoyoutside.jpg
+thumbnail: assets/img/posts/turkeyprep2018/decoyoutside.jpg
 tags: [Turkey Hunting, Hunting Journal, Preparation]
 author: sebastien
 ---
 
 ## Turkey season...
 
-...is upon us. For me, in about 35 days as I am writing this article, I will be in the woods chasing them. Every year around the same period, I start getting excited about turkey hunting. I start to practice my calls and rounding up my gear for the upcoming season. Here are the few steps I take to make sure I am on point to try to take a turkey with my bow.
+...is upon us. For me, in about 2 weeks as I am writing this article, I will be in the woods chasing them. Every year around the same period, I start getting excited about turkey hunting. I start to practice my calls and rounding up my gear for the upcoming season. Here are the few steps I take to make sure I am on point to try to take a turkey with my bow.
 
-Image of turkey hunting Gear.
+![Picture of my 2017 turkey kill]({{ "/assets/img/posts/turkeyprep2018/2017.jpeg" | absolute_url }})
+*Pictured above: My 2017 turkey, taken with a shotgun*
 
 *****
 
@@ -20,7 +21,7 @@ Image of turkey hunting Gear.
 
 #### Bow and arrows.
 
-Of course, with a website called “bow hunting Canada” I won't be taking the shotgun to the turkeys wood this spring, but my bow and arrows. I shoot my bow year around and the next couple of week I want to work on a couple of things. Namely:
+Of course, with a website called “BowHunting Canada” I won't be taking the shotgun to the turkeys wood this spring, but my bow and arrows. I shoot my bow year around and the next couple of week I want to work on a couple of things. Namely:
 - Shooting seated
 - Increase the amount of time at full draw
 - Making groups with broadheads
@@ -33,15 +34,24 @@ Of course, shooting as often as I do will help me, but I also need to make sure 
 
 An important topic to consider is broadheads. My opinion is that consistency and accuracy come first. To shoot as small a target as a turkey require to make a good shot, so you should choose to shoot a broadhead that is as accurate as possible. Personally, I like mechanical as I feel they provide more forgiveness for a marginal shot, but to each their own. I also take the time required to study turkey vital zone diagram. While bowhunting turkey, you can decide to shoot for the head/neck or the "traditional" vital zone. I would advice getting comfortable knowing your effective distance and knowing the turkey vital placement as well as you can before heading on the hunt.
 
+![Picture of two broadheads]({{ "/assets/img/posts/turkeyprep2018/broadhead.jpg" | absolute_url }})
+*Pictured above: Bloodsport Archery Night Fury broadhead*
+
 #### Decoys
 
 We don't have a ton of decoys, in fact, we own two; a jake and a “breeder position” hen, both by AxianX. Those decoys served us well in the last two years and I intend on continuing their usage this year also. I feel I can get most out of the situation with both of those decoys. Of course, having more options would be great to adapt to any situation, but I think that with those two decoys, I can remain mobile and still get the best bang for my bucks.
 
-If you can only buy one decoy, get a hen for sure. In the end, it's still what the gobblers are interested in. The jake is only there to provoke the tom into closing the distance.
+![Picture a hen decoy]({{ "/assets/img/posts/turkeyprep2018/decoy.JPG" | absolute_url }})
+*Pictured above: Avian X Breeder turkey decoy*
+
+If you can only buy one decoy, get a hen for sure. In the end, it's still what the gobblers are interested in. The jake is only there to hopefully provoke the tom into closing the distance.
 
 #### Calling
 
 Unless we are talking about bows, what gets me the most excited about hunting is calling. I love calling. For this reason, I have a couple of turkey call and practice with them often. As a bowhunter, I require having at least one diaphragm call that you are comfortable with. This is the most important to master since you can call without movement, or even while at full draw. This is critical especially for us bowhunter since we need to be as near as possible of the bird for the shot.
+
+![Picture turkey calls]({{ "/assets/img/posts/turkeyprep2018/calls.JPG" | absolute_url }})
+*Pictured above: Multiple turkey calls, by Recall Design*
 
 I also have a couple of friction calls, as well as a crow call. The crow call is used in the morning when the birds are still roosted up to locate them. I mainly use this when I couldn't “roost” the birds the preceding evening.
 
@@ -64,3 +74,6 @@ I am sure that hunting from a ground blind will be far beneficial to me as a bow
 I am something that thrives on goals. I find it is highly important to fix yourself some goal when planning something. Be realistic and set yourself for success. For this year, my goal is to tag a single turkey with my bow, I don't intend on targeting bigger tom or anything like that, any single turkey with my bow will satisfy me. We can tag two bearded turkeys every spring in the zone that I am. I would also like to get my wife involved as much as possible and try to get her to kill her first turkey as well.
 
 Those are my goals for 2018 and I hope to be able to achieve them. I have set aside some time off from work and with the generous 3 week season, we have here I feel this is achievable.
+
+![Picture of packing up the turkey from 2017]({{ "/assets/img/posts/turkeyprep2018/turkeyback.jpeg" | absolute_url }})
+*Pictured above: Bringing the turkey back to the car, from the 2017 season*

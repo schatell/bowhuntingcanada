@@ -10,7 +10,7 @@ author: sebastien
 
 ### Quick Navigation
 
-Will be available when other article are online
+Will be available when the others articles are online
 
 <!--  Navigation link-->
 
@@ -27,7 +27,7 @@ It sure does look intimidating at first look. A compound bow you have all those 
 All compound bows are built on the same principle and the parts are all called the same, the main “body” of the bow is called the **riser**. It is the piece of aluminum or sometimes carbon where you grip the bow and where all accessories are mounted. Its role is to be rigid and stable while still being as light as possible.
 
 ![Picture of a riser]({{ "/assets/img/posts/archerybeginnerpart1/riser.JPG" | absolute_url }})
-*Pictured above: Riser of a Hoyt ProDefiant*
+*Pictured above: Riser of a Hoyt Pro Defiant*
 
 At both end of the riser you have the **limbs**. Those are what determine the **draw weight** of the bow, meaning the amount of force required to pull the bow back. Those limbs flex when the bow is drawn and when the string is released the spring back into their position, providing the force required to propel the arrow.
 
