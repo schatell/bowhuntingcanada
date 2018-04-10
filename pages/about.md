@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img:
+feature-img: assets/img/general/defaultfeature.jpg
 tags: [About]
 ---
 
@@ -30,4 +30,6 @@ No I am not, for now all the gear reviewed are stuff I bought with my own money.
 
 ## Ads on the website
 
-I display a small amount of ad on the website to help me pay for the expense I have hosting this webpage. Those ad come from google and are safe to the user. They reflect thing each user would be interested in viewing.
+So far, I display no ads on this website. This include paid sponsorship or plain ads. This might be something that could change in the future as my cost expand. I have not taken a hard stance on it so far. But for now, enjoy this website without any ad getting in the way of your experience.
+
+*****
