@@ -6,6 +6,7 @@ feature-img: assets/img/general/defaultfeature.jpg
 thumbnail: # Add a thumbnail image on blog view
 tags: [tag1, tag2]
 author: sebastien
+sample: 
 ---
 
 ## Section title

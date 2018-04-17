@@ -6,6 +6,7 @@ feature-img: assets/img/posts/mineralstation/artisticstation.JPG
 thumbnail: assets/img/posts/mineralstation/thumnail.JPG
 tags: [Hunting, Deer, Mineral Station, DIY]
 author: sebastien
+sample: Deer hunters are always on the lookout for new ways to improve their deer herd health. Making mineral station is a great way of providing relief to the deer on your hunting ground without breaking the bank. They are critical during the springtime as...
 ---
 
 ## Mineral station

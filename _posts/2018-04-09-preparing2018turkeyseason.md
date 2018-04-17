@@ -6,6 +6,7 @@ feature-img: assets/img/posts/turkeyprep2018/decoyoutside.jpg
 thumbnail: assets/img/posts/turkeyprep2018/decoyoutside.jpg
 tags: [Turkey Hunting, Hunting Journal, Preparation]
 author: sebastien
+sample: Turkey season is upon us. For me, in about 2 weeks as I am writing this article, I will be in the woods chasing them. Every year around the same period, I start getting excited about turkey hunting. I start to practice my calls and rounding up my gea...
 ---
 
 ## Turkey season...

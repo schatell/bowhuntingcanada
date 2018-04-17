@@ -1,21 +1,24 @@
 .site-header {
-  border-bottom: 2px solid lighten($text-color, 45%);
+  background: linear-gradient(to left, #6D9E04 0%, #99cc00 100%);
   position: fixed;
   padding: 6px;
-  background: $brand-color;
   display: inline-block;
   float: left;
   width: 100%;
 
   a {
-    color: $header-link-color;
+    color: white;
+  }
+
+  .branding{
+    padding-top: 10px;
   }
 
   .avatar {
     height: 3em;
     width: 3em;
     float: left;
-    margin-top: -13px;
+    margin-top: -8px;
     border-radius: 0.2em;
     margin-right: 0.5em;
     padding: 10px;
@@ -33,7 +36,7 @@
     margin: 0;
     padding: 0;
     margin-right: 10px;
-    margin-top: 5px;
+    margin-top: 0px;
     ul {
       margin: 0;
       padding: 0;
@@ -51,7 +54,7 @@
 
     a {
       &:hover {
-        color: $link-color;
+        color: darken($link-color, 5%);
       }
 
       &#pull {

@@ -12,24 +12,21 @@ layout: default
 
   <div class="posts">
     {% for post in paginator.posts %}
-    <div class="post-teaser">
+
+    <a class="card" href="{{ post.url | prepend: site.baseurl }}">
       <div class="post-img" style="background-image: url('{{ site.baseurl }}/{{ post.thumbnail }}')"></div>
-      <div class="post-info">
+      <div class="card-info">
         <h1>{{ post.title }}</h1>
         <h2> {{ post.subtitle }}</h2>
-        <p class="meta">
-          {{ post.date | date: "%B %-d, %Y" }}
-        </p>
-        <div class="excerpt">
-          {{ post.content | strip_html | truncate: "250" }}
-        </div>
-        <a class="button" href="{{ post.url | prepend: site.baseurl }}">
-        {{ site.theme_settings.str_continue_reading }}
-      </a>
+        <p class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+        <p class="excerpt">{{ post.sample }}</p>
       </div>
-    </div>
-    {% endfor %}
+      <button class="button">
+        {{ site.theme_settings.str_continue_reading }}
+      </button>
+    </a> {% endfor %}
   </div>
+
 
   {% if paginator.total_pages > 1 %}
   <div class="pagination">

@@ -6,6 +6,8 @@ feature-img: assets/img/general/defaultfeature.jpg
 thumbnail: assets/img/posts/force11d/IMG_1145-min.JPG
 tags: [Review, Hunting Camera, Spypoint]
 author: sebastien
+sample: Spypoint might be the brand of camera I see the most around. In fact, every hunter that own cameras seem to have at least one in their arsenal. That might not be the case south of the border, but here it sure is. Spypoint is a company situated in Vic...
+
 ---
 
 ## The company

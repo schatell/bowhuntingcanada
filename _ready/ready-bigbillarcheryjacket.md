@@ -6,6 +6,7 @@ feature-img: assets/img/posts/bigbillarcheryjacket/feature.jpg
 thumbnail: assets/img/posts/bigbillarcheryjacket/thumnail.jpg
 tags: [Review, Clothing, Jacket, BigBill]
 author: sebastien
+sample: Last season I was looking at getting a jacket for my early season archery deer hunting. I went to my local store to look at the different offering. Making researches on the internet as any other gear junky would, I stumbled on the new line of hunting...
 ---
 
 ## In need of an early season jacket

@@ -6,6 +6,8 @@ feature-img: assets/img/posts/lonewolfalphaii/uptree.jpg
 thumbnail: assets/img/posts/lonewolfalphaii/uptree.jpg
 tags: [Tree stand, Hang-on, LoneWolf, Review]
 author: sebastien
+sample: Lone Wolf is the company that for a long time was at the forefront of the treestand technologies. It is responsible for the invention of the cast aluminum platform for tree stand, enhancing the silent capability by a lot. By itself, this is a pretty...
+
 ---
 **Please exercise safety when climbing trees. Always wear a safety harness and be sure to always have three points of contact with the tree at all time.**
 

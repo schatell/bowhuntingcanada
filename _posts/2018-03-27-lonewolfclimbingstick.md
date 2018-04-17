@@ -6,6 +6,7 @@ feature-img: assets/img/posts/lonewolfclimbingsticks/sticksontree.jpg
 thumbnail: assets/img/posts/lonewolfclimbingsticks/thumbnail.JPG
 tags: [Review, Lone Wolf, Climbing Sticks, Review]
 author: sebastien
+sample: Climbing sticks are a popular method of climbing trees by hunters using a hang-on stand. They allow the hunter to climb a crooked tree and where limbs would get in the way of a normal ladder. Combining with a quality hang-on stand, you can climb virt...
 ---
 
 **Please exercise safety when climbing trees. Always wear a safety harness and be sure to always have three points of contacts with the tree at all time.**
