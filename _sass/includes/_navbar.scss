@@ -1,5 +1,9 @@
 .site-header {
-  background: linear-gradient(to left, #6D9E04 0%, #99cc00 100%);
+  background: #99cc00;
+  background: -moz-linear-gradient(left, #99cc00 0%, #5f8708 100%);
+  background: -webkit-linear-gradient(left, #99cc00 0%,#5f8708 100%);
+  background: linear-gradient(to right, #99cc00 0%,#5f8708 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#99cc00', endColorstr='#5f8708',GradientType=1 );
   position: fixed;
   padding: 6px;
   display: inline-block;
@@ -10,15 +14,15 @@
     color: white;
   }
 
-  .branding{
-    padding-top: 10px;
+  .site-title {
+    margin-top: 10px;
   }
 
   .avatar {
     height: 3em;
     width: 3em;
     float: left;
-    margin-top: -8px;
+    margin-top: -4px;
     border-radius: 0.2em;
     margin-right: 0.5em;
     padding: 10px;
@@ -39,6 +43,7 @@
     margin-top: 0px;
     ul {
       margin: 0;
+      margin-top: 10px;
       padding: 0;
       list-style: none;
       line-height: 1.5;
@@ -100,7 +105,6 @@
 
   nav {
     height: auto;
-
     ul {
       width: 100%;
       display: none;

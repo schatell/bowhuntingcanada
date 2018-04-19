@@ -1,11 +1,38 @@
-// Header text feature
+.home {
+  padding-top: 100px;
+}
+
+.pages {
+  padding-bottom: 10px;
+  display: flex;
+  justify-content: space-around;
+
+  a {
+    margin-bottom: 10px;
+    display: inline-block;
+    text-transform: uppercase;
+    font-weight: bold;
+
+    &::after {
+      content: '';
+      display: block;
+      width: 0;
+      height: 4px;
+      background: $link-color;
+      transition: width 0.3s;
+    }
+
+    &:hover::after {
+      width: 100%;
+    }
+  }
+}
 
 .call-out {
-  margin-top: 150px;
   @extend %padding-regular;
   display: inline-block;
   width: 100%;
-  height: 40vh;
+  height: 50vh;
   font-size: 1.2em;
   text-align: center;
   color: $header-desc-text-color;
@@ -43,27 +70,35 @@
   margin: auto;
 
   .card {
+    color: $text-color;
     box-sizing: border-box;
-    border: 3px solid $link-color;
+    border: 3px solid #666;
     border-radius: 25px;
     margin-top: 8vh;
     display: flex;
     flex-direction: column;
     box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
     transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+
     &:hover {
       box-shadow: 0 28px 56px rgba(0,0,0,0.35), 0 20px 20px rgba(0,0,0,0.28);
     }
-    .card-info {
-      padding: 1vh;
-      padding-left: 2vh;
+
+    h2 {
+      color: #666;
     }
+
+    .card-info {
+      padding: 1vh 1vh 1vh 2vh;
+    }
+
     button {
+      color: $link-color;
       margin-left: 2vh;
       margin-bottom: 3vh;
-      width: 25%;
       background-color: transparent;
-      &:hover{
+
+      &:hover {
         background-color: $link-color;
         color: white;
       }
@@ -73,15 +108,16 @@
       @extend .body-link;
     }
 
-
     .post-img {
       vertical-align: middle;
       background-position: top center;
       background-size: cover;
       background-repeat: no-repeat;
       height: 50vh;
-      margin: -20px;
-      border-radius: 8px;
+      margin: -4px;
+      border-radius: 25px;
+      border-bottom-left-radius: 8px;
+      border-bottom-right-radius: 8px;
       box-shadow: 5px 10px 20px rgba(0,0,0,0.19), 5px 6px 6px rgba(0,0,0,0.23);
       @media (min-width: $break) {}
       //Smaller screen
@@ -115,18 +151,30 @@
   .posts {
     width: 80vw;
   }
+
   .card {
     width: 30vw;
+  }
+
+  .button {
+    width: 30%;
   }
 }
 @media screen and (max-width: $break) {
   .card {
     width: 80vw;
   }
-}
 
+  .button {
+    width: 50%;
+  }
+}
 @media screen and (max-width: $md-break) {
   .card {
     width: 70vw;
+  }
+
+  .button {
+    width: 45%;
   }
 }

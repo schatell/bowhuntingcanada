@@ -6,7 +6,7 @@ feature-img: assets/img/general/defaultfeature.jpg
 thumbnail: assets/img/posts/layers/face.jpg
 tags: [Equipment, Layering, Clothing]
 author: sebastien
-sample: Enjoying the outdoors is greatly enhanced if you are comfortable. This is almost always related to feeling cool or warm enough. While hunting whitetail, turkey, moose or any other game, a modern layering system can really benefit you in that domain. ...
+sample: Enjoying the outdoors is greatly enhanced if you are comfortable. This is almost always related to feeling cool or warm enough. While hunting whitetail, turkey, moose or any other game, a modern layering system can really benefit you in that domain...
 
 ---
 
