@@ -12,24 +12,32 @@ tags: [About]
 
 ## What is this website about?
 
-I have created this website to talk about my passion: bows and bowhunting. Since I am located in Canada I decided to name the website "The Canadian Bowhunter". A great deal of information is already available online to archers and bowhunter, however, this information is sometime questionable or simply not addressed at people living in our climate. My goal is to learn, and provide as much wisdom as possible to new and older archers. I am a not so experienced bowhunter but still a decent shot on the range. I will tell you everything about my hunts, where I had success and where I failed, this way you can also learn with me.
+Bowhunting Canada is a website that has the mission of providing quality content to its user. We treat a wide range of topic from gear reviews, archery set-up all to way to hunting journaling. Our articles can be useful to anyone on the planet looking at information, but our focus is to treat them from the perspective of a Canadian bowhunter. Our climate being rigorous and the hunting condition often difficult, we need specialized gear and technique that adapt to those conditions. Canada is also a vast country that provides a lot of hunting opportunity, this is something that we love and want to make the promotion of. Of course, we also want to learn as much as we go along the way with our audiences. We are not a website that will only show the success of hunting. We think that failing is the greatest way to learn, and so think that we should also share this side of the story.
 
 *****
 
 ## What kind of content can you expect?
 
-I have a plan of publishing several type of content, but mainly written. You can also expect those articles to come with original pictures to help guide you and have a better idea of what is really going on during my adventures. As far as content type, I want to write about the equipment I have the chance to test, I am a gear junkie so I like to tinker with a lot of stuff so you'll surely ear about my opinion a lot. I also want to write about bows, tuning, shot process and everything in between. Of course I also want to talk about my hunts.
+We want to diversify the type of content as much as possible. This means that we will write about our hunts, our technique and will also review the gear that we use. We also want to get the broadest perspective possible. This is why we will bring interviews with as many Canadian hunting experts as possible and get their opinion on a broad variety of subjects.
+
+*****
+
+## How to use this website?
+
+On the main website site page, you will find the six most recent articles. If you want to access more articles, you can click on the "next" arrow and navigate to the next six articles, or you can click on the magnifier logo on the top right to search for a specific article. Articles are also categorized by tags depending on their specific subject. You can see this categorizing by clicking on the tags logo on the top right of any pages on this website.
+
+We also have a rapid link to this about pages as well as a series of article for debuting archery called "archery 101" on the main page. You can also look at a regrouping of gear review on this same menu.
 
 *****
 
 ## Am I paid to talk about products?
 
-No I am not, for now all the gear reviewed are stuff I bought with my own money. If this came to change, or if I was supplied with test unit, it will be mentioned at the top of the article.
+Every gear tested on this website is gear bought with my own money and tested by myself while actively hunting. For now, being a small website, I am not supplied with test units, nor I am on any promotional staff(pro staff) for any company. Therefore, you can be sure that all the opinion expressed on this website is our unbiased opinion.
 
 *****
 
 ## Ads on the website
 
-So far, I display no ads on this website. This include paid sponsorship or plain ads. This might be something that could change in the future as my cost expand. I have not taken a hard stance on it so far. But for now, enjoy this website without any ad getting in the way of your experience.
+So far, I display no ads on this website. This includes paid sponsorship or plain ads. This might be something that could change in the future as my operating cost expand. I have not taken a hard stance on it so far. But for now, enjoy this website without any ad getting in the way of your experience.
 
 *****
